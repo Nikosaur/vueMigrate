@@ -1,0 +1,5 @@
+{
+  "name": "Vue 2 to 3 Migrator",
+  "description": "An intelligent tool to automatically migrate Vue 2 Options API (JS) code to Vue 3 Composition API (TS) using the Gemini 3 Pro model.",
+  "requestFramePermissions": []
+}
